@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jorgevas11/geektech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jorgevas11/geektech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.google.es/search?q=marca
+https://www.google.es/search?q=centro+de+enseñanza+gregorio+fernandez
+https://www.google.es/search?q=gregorio+fernandez
+https://www.google.es/search?num=3&q=gregorio+fernandez
+https://www.google.es/search?as_filetype=JPG&q=+league+of+legends
+https://www.google.es/search?as_sitesearch=euw.leagueoflegends.com&q=bots
+https://www.google.es/search?as_qdr=d&q=hackers
+https://www.google.es/search?as_filetype=PNG&q=+league+of+legends&as_right=(cc_publicdomain%20|%20cc_attribute%20|%20cc_sharealike)%20.-%20(cc_noncommercial%20|%20cc_nonderived)
+  
+  
+  
